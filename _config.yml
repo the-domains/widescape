@@ -1,7 +1,7 @@
 name: widescape
 favicon: null
-layout_spectrum: 0.4691332154907286
-typography_spectrum: 0.6528799431398511
+layout_spectrum: 0.54662
+typography_spectrum: 0.28413
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.16697707632556558
-  lightness: 0.35146667063236237
-  saturation: 0.19635889795608819
-  rhythmicContrast: 0.0033382540568709373
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
